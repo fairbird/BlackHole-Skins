@@ -1,5 +1,4 @@
-This is rebo for BlackHole skins ...
+This is rebo for BlackHole panel files ...
 
 From BlackHole VU+ team feed (Thank you)
-
-Created by: Army, Matrix10 and others
+And from other creators (Thank you)
